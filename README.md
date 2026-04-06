@@ -52,7 +52,7 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 
 ## 📸 Preview
 
-<img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/3a87ae3c-a328-43a1-b33b-6d9a12d55e48" />
+![Uploading image.png…]()
 
 
 
