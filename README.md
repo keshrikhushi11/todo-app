@@ -24,7 +24,8 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 ---
 
 ## 📸 Preview
-![Uploading image.png…]()
+<img width="1920" height="872" alt="image" src="https://github.com/user-attachments/assets/913ad773-5434-41b8-a388-dc4da4ee5149" />
+
 
 
 # 📝 Task Manager (To-Do App)
