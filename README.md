@@ -1,4 +1,4 @@
-<img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/0d5a0da4-a6ca-47af-9518-f60660968e4d" /># 📝 Task Manager (To-Do App)
+# 📝 Task Manager (To-Do App)
 
 A simple and clean Task Manager web application built using **HTML, CSS, and JavaScript**.  
 This app helps users manage daily tasks efficiently with a minimal and user-friendly interface.
