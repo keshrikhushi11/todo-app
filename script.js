@@ -5,16 +5,18 @@ function addTask() {
   if (taskText === "") return;
 
   const li = document.createElement("li");
-  li.textContent = taskText;
+
+  const span = document.createElement("span");
+  span.textContent = taskText;
 
   const deleteBtn = document.createElement("button");
-  deleteBtn.textContent = "❌";
+  deleteBtn.textContent = "X";
+
   deleteBtn.onclick = function () {
-    li.remove();
+  li.remove();
   };
 
+  li.appendChild(span);
   li.appendChild(deleteBtn);
   document.getElementById("taskList").appendChild(li);
-
-  input.value = "";
 }

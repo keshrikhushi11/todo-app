@@ -31,6 +31,15 @@ button:hover {
 }
 
 li {
-  margin-top: 10px;
-  list-style: none;
+ 
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 300px;
+margin: 10px auto;
+background: white;
+color: black;
+padding: 10px;
+border-radius: 5px;
+
 }
