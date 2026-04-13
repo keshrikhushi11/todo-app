@@ -17,9 +17,9 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 
  ## Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ---
 
