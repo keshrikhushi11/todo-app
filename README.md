@@ -32,9 +32,3 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 
 
 ---
-
- ## How to Run Locally
-
- Clone the repository:
-   ```bash
-   git clone https://github.com/keshrikhushi11/todo-app.git
