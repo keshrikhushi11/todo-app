@@ -7,6 +7,7 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 
  ## Features
 
+-Which is used to :
 -  Add new tasks
 -  Delete tasks
 -  Clean and responsive UI
