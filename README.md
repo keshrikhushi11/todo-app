@@ -29,7 +29,6 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 
 ---
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5b49c6f-8794-4316-b990-54a4d284588a" />
-
+<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/84f8cec4-1f9a-4ce6-94e6-507af31664d9" />
 
 ---
