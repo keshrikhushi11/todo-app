@@ -1,4 +1,4 @@
-For push the application from VS Code to git hub. I used some git commands like :
+**For push the application from VS Code to git hub,I used some git commands like : **
 - git init
 - git add .
 - git clone <url_of_project>
