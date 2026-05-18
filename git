@@ -1,0 +1,7 @@
+For push the application from VS Code to git hub. I used some git commands like :
+- git init
+- git add .
+- git clone <url_of_project>
+- git commit -m "upload my readme.md"
+- git push origin mail
+- git push
