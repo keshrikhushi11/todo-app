@@ -5,7 +5,7 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 
 ---
 
- ## Features of to-do-app
+ ## Features of To-Do-App
 
 -Which is used to :
 -  Add new tasks
