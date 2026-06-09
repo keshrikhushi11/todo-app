@@ -13,7 +13,7 @@ This app helps users manage daily tasks efficiently with a minimal and user-frie
 -  Clean and responsive UI
 -  Instant updates (DOM manipulation)
 -  Supports quick task entry
-
+-  
 ---
 
  ## Tech Stack
